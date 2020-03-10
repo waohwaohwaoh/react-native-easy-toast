@@ -120,9 +120,6 @@ export default class Toast extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        position: 'absolute',
-        left: 0,
-        right: 0,
         elevation: 999,
         alignItems: 'center',
         zIndex: 10000,
